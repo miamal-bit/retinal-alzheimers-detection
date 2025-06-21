@@ -41,5 +41,7 @@ To use the data:
 Results:
 Our model showed limited predictive accuracy on STARE due to label complexity and small sample size, but the workflow demonstrates a proof of concept. We hope future work combining this with EEG data will improve performance.
 
+Note: The commented-out code blocks at the end can be ignored. Only the first two models that appear (pre-trained and refined models) are relevant. 
+
 Made by:
 The PRISM team
